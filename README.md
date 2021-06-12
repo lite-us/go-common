@@ -1,6 +1,6 @@
 # go-common
-Common Go utilities used by various TRON projects.
+Common Go utilities used by various LITE projects.
 
 ## Notes
 
-Use `export TGC_PREFIX=...` to set a common environment variable prefix. By default `TGC_`.
+Use `export LGC_PREFIX=...` to set a common environment variable prefix. By default `LGC_`.
